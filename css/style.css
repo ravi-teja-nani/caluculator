@@ -11,8 +11,12 @@ body {
 }
 
 h1 {
-  font-size: 18px;
+  font-size: 30px;
   text-align: center;
-  padding: 30px;
+  padding: 18px;
   vertical-align: middle;
+}
+p {
+  color: whitesmoke;
+  padding: 18px;
 }
