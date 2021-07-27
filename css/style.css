@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: blueviolet;
+    color: cornsilk;
+}
+
+h1 {
+  font-size: 18px;
+  text-align: center;
+  padding: 18px;
+  vertical-align: middle;
+}
